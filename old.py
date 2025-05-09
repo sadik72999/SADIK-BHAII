@@ -612,13 +612,6 @@ os.system('espeak -a 300 "well,come to,sifat, tools"')
 os.system('xdg-open https://www.facebook.com/profile.php?id=100088772568972.Ok.Bro')
 logo = f"""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-
- ▗▄▄▖ ▗▄▖ ▗▄▄▄  ▗▄▄▄▖▗▖ ▗▖    
-▐▌   ▐▌ ▐▌▐▌  █   █  ▐▌▗▞▘    
- ▝▀▚▖▐▛▀▜▌▐▌  █   █  ▐▛▚▖     
-▗▄▄▞▘▐▌ ▐▌▐▙▄▄▀ ▗▄█▄▖▐▌ ▐▌    
-                              
-                              
                               
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 ║\33[0;41m      [ WORKING WIFI AND MOBILE DATA ]       \033[0;92m║
