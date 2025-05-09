@@ -613,7 +613,6 @@ NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \0
 os.system('espeak -a 300 "well,come to,sadikbhaii, tools"')
 os.system('xdg-open https://t.me/sadikbhaii.Ok.Bro')
 logo = f"""
-\033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 ║\33[0;41m      [      S A D I K  B H A I      ] \033[0;92m║
