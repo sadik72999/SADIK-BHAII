@@ -606,13 +606,18 @@ def line():print(f'\r\n\33[38;5;37m━━━━━━━━━━━━━━━
 
 os.system('clear')
 os.system('espeak -a 300 " Assalamu' 'olaikum"')
+os.system('espeak -a 300 " Thank you for joining our secret marketing world"')
 os.system('espeak -a 300 " Your,   Real,  Name,"')
+os.system('espeak -a 300 " Your,   Real,  Age"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
-os.system('espeak -a 300 "well,come to,sifat, tools"')
-os.system('xdg-open https://www.facebook.com/profile.php?id=100088772568972.Ok.Bro')
+os.system('espeak -a 300 "well,come to,sadikbhaii, tools"')
+os.system('xdg-open https://t.me/sadikbhaii.Ok.Bro')
 logo = f"""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-                              
+                 
+                   Sadikbhaii Old Facebook Cloning Command 
+                       (Use 1111 VPN,ID Login Lite 11 Version) 
+                                            
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 ║\33[0;41m      [ WORKING WIFI AND MOBILE DATA ]       \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
